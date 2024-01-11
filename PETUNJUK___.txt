@@ -1,0 +1,37 @@
+REQ PASSWORD RAR
+HUB : 08179851011
+==================
+Aplikasi Absensi dan Penggajian Menggunakan Laravel versi 10
+=====================================================
+PLAYLIST LENGKAP SOURCE CODE : https://bit.ly/3O3eApC
+=====================================================
+## Framework 
+LARAVEL v.10
+
+## Requirement
+1. php 8.2
+2. MySQL / MariaDB
+
+==PETUNJUK INSTALASI==
+#ektrak file project
+#buat database dan import sql di folder _db
+#sesuiakan nama database di .env
+#buka terminal pada folder project
+#jalankan perintah : php artisan serve
+#buka url : http://127.0.0.1:8000/
+
+ADMIN
+user : admin@admin.com
+pass : admin
+
+Fitur :
+- User Admin dan Karyawan
+- Pengaturan Jadwal dan master data lainnya oleh Admin
+- Bisa digunakan untuk multi cabang
+- Karyawan Absen login dengan user/pass masing-masing
+- Karyawan bisa lihat jadwal secara online
+- Bisa tuker shift kerja dengan karyawan lainnya
+- Karyawan Cetak slip gaji login ke aplikasi
+- Laporan gaji
+- Riset password bisa dilakukan sendiri oleh karyawan, dengan catatan email di data karyawan aktif
+- dll 
